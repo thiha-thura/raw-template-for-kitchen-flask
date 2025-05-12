@@ -15,7 +15,7 @@ INSERT INTO menu ('item' , 'category' , 'note' , 'price') VALUES (2 , 'Sandwish'
 
 # Install the modules
 
-pip install Flask render_template request url_for  redirect flask_sqlalchemy
+pip install Flask render_template request url_for  redirect flask_sqlalchemy pymysql
 
 # Run the flask app
 
